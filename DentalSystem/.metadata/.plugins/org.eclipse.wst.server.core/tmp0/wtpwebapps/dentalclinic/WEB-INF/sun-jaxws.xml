@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<endpoints
+xmlns="http://java.sun.com/xml/ns/jax-ws/ri/runtime" version="2.0">
+<endpoint name = "PatientWebService" 
+implementation = "webservices.PatientWebService" 
+url-pattern="/getPatientByCprNo"/>
+<endpoint name = "PatientWebService" 
+implementation = "webservices.PatientWebService" 
+url-pattern="/getAllPatientByCprNo"/>
+
+
+<endpoint name = "PatientWebService" 
+implementation = "webservices.DentistWebService" 
+url-pattern="/getDenist"/>
+<endpoint name = "PatientWebService" 
+implementation = "webservices.AddressWebservice" 
+url-pattern="/getAddress"/>
+<endpoint name = "PatientWebService" 
+implementation = "webservices.AppoinmentWebService " 
+url-pattern="/getAppointment"/>
+<endpoint name = "PatientWebService" 
+implementation = "webservices.BranchWebService" 
+url-pattern="/getBranch"/>
+<endpoint name = "PatientWebService" 
+implementation = "webservices.ScheduleWebService" 
+url-pattern="/getAllSchedule"/>
+<endpoint implementation="webservices.LoginAsPatientWebService" 
+url-pattern="/getPatientLoginByCprNo" 
+name="LoginAsPatientWebService"/>
+<endpoint implementation="webservices.LoginAsDentistWebService" 
+url-pattern="/getDentistLoginByDentistId" 
+name="LoginAsDentistWebService"/>
+<endpoint implementation="webservices.LoginAsReceptionistWebService"
+ url-pattern="/getReceptionistLoginByReceptionistId" 
+ name="LoginAsReceptionistWebService"/>
+</endpoints>

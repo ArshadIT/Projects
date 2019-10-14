@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [07/Jun/2019:09:11:18 +0200] "GET /DentalClinicWebService/getAppointment HTTP/1.1" 200 6469
+0:0:0:0:0:0:0:1 - - [07/Jun/2019:09:11:28 +0200] "GET /DentalClinicWebService/getBranch HTTP/1.1" 200 6469
+0:0:0:0:0:0:0:1 - - [07/Jun/2019:09:14:27 +0200] "POST /DentalClinicWebService/getPatientByCprNo HTTP/1.1" 200 213
+0:0:0:0:0:0:0:1 - - [07/Jun/2019:09:14:36 +0200] "POST /DentalClinicWebService/getBranch HTTP/1.1" 200 2517
+0:0:0:0:0:0:0:1 - - [07/Jun/2019:09:14:39 +0200] "POST /DentalClinicWebService/getDenist HTTP/1.1" 200 972
+0:0:0:0:0:0:0:1 - - [07/Jun/2019:09:14:39 +0200] "POST /DentalClinicWebService/getDenist HTTP/1.1" 200 972
+0:0:0:0:0:0:0:1 - - [07/Jun/2019:09:14:51 +0200] "POST /DentalClinicWebService/getAppointment HTTP/1.1" 200 210
+0:0:0:0:0:0:0:1 - - [07/Jun/2019:09:26:01 +0200] "POST /DentalClinicWebService/getPatientByCprNo HTTP/1.1" 200 213
+0:0:0:0:0:0:0:1 - - [07/Jun/2019:09:26:06 +0200] "POST /DentalClinicWebService/getBranch HTTP/1.1" 200 2517
+0:0:0:0:0:0:0:1 - - [07/Jun/2019:09:26:08 +0200] "POST /DentalClinicWebService/getDenist HTTP/1.1" 200 972
+0:0:0:0:0:0:0:1 - - [07/Jun/2019:09:26:08 +0200] "POST /DentalClinicWebService/getDenist HTTP/1.1" 200 972
+0:0:0:0:0:0:0:1 - - [07/Jun/2019:09:26:22 +0200] "POST /DentalClinicWebService/getAppointment HTTP/1.1" 200 210

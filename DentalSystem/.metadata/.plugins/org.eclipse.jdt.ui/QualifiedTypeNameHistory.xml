@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="DAO.IDentistDAO"/>
+    <fullyQualifiedTypeName name="webservices.BranchWebService"/>
+    <fullyQualifiedTypeName name="DAO.IBranchDAO"/>
+    <fullyQualifiedTypeName name="controller.BranchController"/>
+    <fullyQualifiedTypeName name="model.IAppointment"/>
+    <fullyQualifiedTypeName name="DAO.AppointmentDAO"/>
+    <fullyQualifiedTypeName name="webservices.AppoinmentWebService"/>
+    <fullyQualifiedTypeName name="model.Appointment"/>
+</qualifiedTypeNameHistroy>
